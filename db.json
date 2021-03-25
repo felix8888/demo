@@ -1,7 +1,7 @@
 {
 "service": {
   "description": "Crew is experiencing latency issues",
-  "status": "NORMAL",
+  "status": "DOWN",
   "statusPageUrl": "https://status.crewapp.com/",
   "statusPageUrlTitle": "Status"
 }
