@@ -1,6 +1,1 @@
-{
-    "description": "Crew is experiencing latency issues",
-    "status": "NORMAL",
-    "statusPageUrl": "https://status.crewapp.com/",
-    "statusPageUrlTitle": "Status"
-}
+{"description": "Crew is experiencing latency issues","status": "NORMAL","statusPageUrl": "https://status.crewapp.com/","statusPageUrlTitle": "Status"}
